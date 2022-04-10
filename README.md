@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kairos67
-- 👀 I’m interested in Web develope.
-- 🌱 I’m currently learning c#,asp.net.
+- 👀 I’m interested in Web developer(css, html, bootStrap, ruby on rails)
+- 🌱 I’m currently learning c#,asp.net,ruby on rails.
 
 <!---
 kairos67/kairos67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

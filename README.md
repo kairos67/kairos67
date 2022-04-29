@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @kairos67.  I'm currently working for an IT Company in Seoul.
-- 👀 I’m interested in Web development(CSS, HTML, bootStrap, ruby on rails)
+- 👀 I’m interested in Web development(ruby on rails, Next.js, Node.js, React/Redux, CSS, HTML, bootStrap)
 - 🌱 I’m currently learning Ruby on rails,react/redux,c#,asp.net.
+- 🌱 I'm currently developing and maintaining with PowerBuilder.
+- DB: MSSQL,ORACLE, MYSWL, Maria, ProgreSQL
 
 
 <!---
